@@ -1,5 +1,5 @@
 # testprojekt
-Mein wunderbares Projekt. Rest folg noch...
+Mein wunderbares Projekt. Rest folgt noch...
 
 ## ToDos
 - [] Readme.md auffüllen
