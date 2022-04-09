@@ -1,1 +1,6 @@
 # testprojekt
+Mein wunderbares Projekt. Rest folg noch...
+
+## ToDos
+- [] Readme.md auffüllen
+- [] rest...
